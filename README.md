@@ -54,7 +54,3 @@ El script preguntará si deseas eliminar los archivos JSON después de procesarl
 
 Se creara un archivo resultados_trade.ods con la información extraida de los .json.
 ---
-
-
-
-[Plantilla en Google SpreadSheets](https://docs.google.com/spreadsheets/d/1pGe8Pw-z-nSJa9FYEgPOqKPJCPZD6ao4GPaWX1034ZQ/edit?usp=sharing)
