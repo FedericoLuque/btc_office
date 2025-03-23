@@ -1,6 +1,6 @@
-# Script para guardar tus compras de robosats en una hoja de calculo LibreOffice
+# Script para guardar tus compras en robosats en una hoja de calculo LibreOffice
 
-Este script permite actualizar una hoja de cálculo de LibreOffice con los archivos JSON generados de una compra en RoboSats.
+Este script permite crear o actualizar una hoja de cálculo de LibreOffice con los archivos JSON generados de una compra en RoboSats.
 
 Guarda tus trades en un archivo .json que empiece por trade (trade1.json, trade2.json). Los registrará todos.
 
